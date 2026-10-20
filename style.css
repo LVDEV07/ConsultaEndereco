@@ -1,0 +1,31 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+    font-weight: 800;
+}
+
+.campos{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 70%;
+    align-items: center;
+    margin: 0 auto;
+    width: 600px;
+    padding-bottom: 80px;
+
+}
+
+input{
+    width: 400px;
+    border-style:groove;
+    border-color: rgb(153, 154, 155);
+    height: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}   
+
+body{
+
+    background-color: azure;
+}
+
